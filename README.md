@@ -2,7 +2,6 @@
 
 El ejercicio se encuentra resuelto en el archivo main.js
 
---------------------------------------
 
 ## PROBLEMA
 
@@ -16,9 +15,8 @@ Tienes un ticket de cena que cuesta 120 € y en el que ya se incluyen las bebid
 
 Calcula cuánto tendría que pagar cada comensal para dividir los costos de manera equitativa.
 
-Utiliza JavaScript para hacer el cálculo y mostrar el resultado por consola. */
+Utiliza JavaScript para hacer el cálculo y mostrar el resultado por consola.
 
---------------------------------------
 
 ## SOLUCIÓN
 
